@@ -29,6 +29,13 @@
             "bandcamp":"https://dreamcatalogue.bandcamp.com/album/rain-temple"
         },
         {
+            "name": "I'll Try Living Like This",
+            "artist":"death's dynamic shroud",
+            "image":"https://f4.bcbits.com/img/a0102733853_10.jpg",
+            "description": "Haunting, soothing, terrifying and sad at the same time. Nothing will ever be similar to this masterpiece.",
+            "bandcamp": "https://deathsdynamicshroud.bandcamp.com/album/ill-try-living-like-this"
+        },
+        {
             "name":"The city is my friend",
             "artist":"Remember",
             "image":"https://f4.bcbits.com/img/a1106418967_10.jpg",
@@ -155,7 +162,7 @@
             "name":"Darklife",
             "artist":"death's dynamic shroud",
             "image":"https://f4.bcbits.com/img/a2954521948_10.jpg",
-            "description":"It might not be very vaporwavey, but it's dds's best work yet. The tape is awesome btw.",
+            "description":"So experimental it's impossible to tell what it is. Still not the best dds record though.",
             "bandcamp":"https://deathsdynamicshroud.bandcamp.com/album/darklife-2"
         },
         {
@@ -167,13 +174,6 @@
         }
     ],
     "c": [
-        {
-            "name": "I'll Try Living Like This",
-            "artist":"death's dynamic shroud",
-            "image":"https://f4.bcbits.com/img/a0102733853_10.jpg",
-            "description": "Good, just haven't listened to it enough. It gets better every time you listen to it.",
-            "bandcamp": "https://deathsdynamicshroud.bandcamp.com/album/ill-try-living-like-this"
-        },
         {
             "name":"Anathema",
             "artist":"Oblique Occasions",
