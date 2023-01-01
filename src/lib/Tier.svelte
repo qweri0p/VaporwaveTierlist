@@ -36,7 +36,7 @@
     }
     div {
         font-family: 'Rubik', sans-serif;
-        height: 10vmin;
+        height: 12vmin;
         width: 100%;
         display: flex;
 
@@ -44,8 +44,8 @@
     span {
         display: block;
         text-align: center;
-        font-size: 8vmin;
-        height: 100%;
-        width: 10vmin;
+        font-size: 10vmin;
+        height: 12vmin;
+        width: 12vmin;
     }
 </style>

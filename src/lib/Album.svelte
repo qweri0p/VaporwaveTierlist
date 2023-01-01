@@ -2,6 +2,7 @@
     import Popover from "./Popover.svelte";
     interface album{
         name:string
+        artist:string
         image:string
         bandcamp:string
         description:string
@@ -16,8 +17,8 @@
 
 <style>
     img {
-        height: 10vmin;
-        width: 10vmin;
+        height: 12vmin;
+        width: 12vmin;
         transition: ease-in-out;
     }
     img:hover {
