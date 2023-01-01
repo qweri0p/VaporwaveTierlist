@@ -18,5 +18,9 @@
     img {
         height: 10vmin;
         width: 10vmin;
+        transition: ease-in-out;
+    }
+    img:hover {
+        transform: scale(1.03);
     }
 </style>

@@ -13,6 +13,12 @@
             "bandcamp":"https://nmesh.bandcamp.com/album/--2"
         },
         {
+            "name":"大​理​石​の​フ​ァ​ン​タ​ジ​ー (Marble Fantasy)",
+            "image":"https://f4.bcbits.com/img/a2921127091_10.jpg",
+            "description":"Idk man this record slaps so fucking hard.",
+            "bandcamp":"https://haircutsformen.bandcamp.com/album/--3"
+        },
+        {
             "name":"Rain Temple",
             "image":"https://f4.bcbits.com/img/a0901283591_10.jpg",
             "description":"This is just amazing. No further comment nessecary.",
@@ -45,6 +51,12 @@
             "bandcamp": "https://nmesh.bandcamp.com/album/nu-wav-hallucinations"
         },
         {
+            "name":"REMNANTS",
+            "image":"https://f4.bcbits.com/img/a3144491188_10.jpg",
+            "description":"My god this record is nice. Bimodal is my favorite Oblique Occastions track.",
+            "bandcamp":"https://obliqueoccasions.bandcamp.com/album/remnants"
+        },
+        {
             "name":"痛​み​の​永​遠 (Eternity of Pain)",
             "image":"https://f4.bcbits.com/img/a1957926096_10.jpg",
             "description":"The best that macroblank ever put out. So happy I have the vinyl.",
@@ -75,6 +87,12 @@
             "bandcamp":"https://orangemilkrecords.bandcamp.com/album/pharma"
         },
         {
+            "name":"Sable Covenant",
+            "image":"https://f4.bcbits.com/img/a0409101075_10.jpg",
+            "description":"Just some very nice and chill barber beats. Nothing new is best track.",
+            "bandcamp":"https://obliqueoccasions.bandcamp.com/album/sable-covenant"
+        },
+        {
             "name":"200% Electronica",
             "image":"https://f4.bcbits.com/img/a2618300680_10.jpg",
             "description":"Actually really good. Criminally underrated.",
@@ -93,6 +111,12 @@
             "image":"https://f4.bcbits.com/img/a0906861639_10.jpg",
             "description":"Idk, this record isn't that good, but I keep coming back to it. It is definitely very special.",
             "bandcamp":"https://remember48.bandcamp.com/album/a-deep-dive-into-the-conflicted-and-scared-psyche"
+        },
+        {
+            "name":"孤​独​な​人​々​の​た​め​の​内​省​的​な​音​楽",
+            "image":"https://f4.bcbits.com/img/a0607810724_10.jpg",
+            "description":"(Introspective Music For Lonely People). Overdose in paradise is amazing. The rest is also quality.",
+            "bandcamp":"https://i-am-monodrone.bandcamp.com/album/--3"
         },
         {
             "name":"Perfect world",
@@ -121,10 +145,16 @@
     ],
     "c": [
         {
-            "name":"Time Moved Like It Used To",
-            "image":"https://f4.bcbits.com/img/a3916438107_10.jpg",
-            "description":"A little too dubsteppy for me. The tape is gorgeous btw.",
-            "bandcamp":"https://noproblematapes.bandcamp.com/album/time-moved-like-it-used-to"
+            "name": "I'll Try Living Like This",
+            "image":"https://f4.bcbits.com/img/a0102733853_10.jpg",
+            "description": "Good, just haven't listened to it enough. It gets better every time you listen to it.",
+            "bandcamp": "https://deathsdynamicshroud.bandcamp.com/album/ill-try-living-like-this"
+        },
+        {
+            "name":"Anathema",
+            "image":"https://f4.bcbits.com/img/a3309345917_10.jpg",
+            "description":"Definitly quality, just kinda forgettable. ",
+            "bandcamp":"https://obliqueoccasions.bandcamp.com/album/anathema"
         },
         {
             "name":"100% Electronica",
@@ -133,10 +163,16 @@
             "bandcamp":"https://georgeclanton.bandcamp.com/album/100-electronica"
         },
         {
-            "name": "I'll Try Living Like This",
-            "image":"https://f4.bcbits.com/img/a0102733853_10.jpg",
-            "description": "Good, just haven't listened to it enough. It gets better every time you listen to it.",
-            "bandcamp": "https://deathsdynamicshroud.bandcamp.com/album/ill-try-living-like-this"
+            "name":"terminally online",
+            "image":"https://f4.bcbits.com/img/a0820125049_10.jpg",
+            "description":"Some heavy bangers on side A, some misses on side B.",
+            "bandcamp":"https://obliqueoccasions.bandcamp.com/album/terminally-online"
+        },
+        {
+            "name":"Time Moved Like It Used To",
+            "image":"https://f4.bcbits.com/img/a3916438107_10.jpg",
+            "description":"A little too dubsteppy for me. The tape is gorgeous btw.",
+            "bandcamp":"https://noproblematapes.bandcamp.com/album/time-moved-like-it-used-to"
         }
 
     ],
@@ -165,7 +201,7 @@
             "name": "Floral Shoppe",
             "image": "https://f4.bcbits.com/img/a4028863981_10.jpg",
             "description": "Just kinda bad. It started the genre sure but it's not that great.",
-            "bandcamp": "https://f4.bcbits.com/img/a4028863981_10.jpg"
+            "bandcamp": "https://vektroid.bandcamp.com/album/floral-shoppe"
          }
     ]
 }

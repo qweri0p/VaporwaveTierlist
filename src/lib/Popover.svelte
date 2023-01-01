@@ -1,10 +1,11 @@
 <script lang="ts">
+    import { fade, fly } from 'svelte/transition';
     export let data;
     export let visible = false;
 </script>
 
 {#if visible}
-<main id="container">
+<main id="container" in:fade out:fly="{{y:200,duration:1000}}">
     <span id="item-4">{data.name}</span>
     <img id="item-1" src="{data.image}" alt="{data.name}" on:keydown={() => {console.log("what?")}} on:click={() => {visible = false}}>
     <p id="item-0">{data.description}</p>
