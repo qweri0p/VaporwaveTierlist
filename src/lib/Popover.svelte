@@ -31,13 +31,11 @@
 
 {#if visible}
 <main id="container" in:blurFade="{{duration:500}}" out:blurFade="{{duration:500}}">
-
-<!-- <main id="container" in:fly="{{y:-200,duration:500}}" out:fly="{{y:200,duration:500}}"> -->
-    <span id="item-4" class="item"><i>{data.name}</i><br><span id="artist">by "{data.artist}"</span></span>
-    <img id="item-1" class="item" src="{data.image}" alt="{data.artist}" on:keydown={() => {console.log("what?")}} on:click={() => {visible = false}}>
-    <a href="{data.bandcamp}" class="item" target="_blank" rel="noopener noreferrer" id="item-3">Bandcamp</a>
-    <button id="item-2" class="item" on:click={() => {visible = false}}>X</button>
-    <p id="item-0" class="item">{data.description}</p>
+    <span id="item-4"><i>{data.name}</i><br><span id="artist">by "{data.artist}"</span></span>
+    <img id="item-1" src="{data.image}" alt="{data.artist}" on:keydown={() => {console.log("what?")}} on:click={() => {visible = false}}>
+    <a href="{data.bandcamp}" target="_blank" rel="noopener noreferrer" id="item-3">Bandcamp</a>
+    <button id="item-2" on:click={() => {visible = false}}>X</button>
+    <p id="item-0">{data.description}</p>
 </main>
 {/if}
 
