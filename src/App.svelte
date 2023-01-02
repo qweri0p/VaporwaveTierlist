@@ -1,4 +1,5 @@
 <script lang="ts">
+  import About from "./About.svelte";
   import Tier from "./lib/Tier.svelte";
   const tiers = ['s', 'a', 'b', 'c', 'd', 'e']
 </script>
@@ -9,6 +10,7 @@
     <br>
   {/each}
 </main>
+<About/>
 
 <style>
   main {
