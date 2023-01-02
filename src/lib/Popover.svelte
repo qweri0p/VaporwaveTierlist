@@ -1,16 +1,43 @@
 <script lang="ts">
+    import { cubicOut } from 'svelte/easing'
     import { fly } from 'svelte/transition';
     export let data;
     export let visible = false;
+
+    function blurFade(node, {
+        duration = 500,
+        delay = 0,
+        x = 0,
+        y = 10,
+        easing = cubicOut
+    }) {
+        const o = +getComputedStyle(node).opacity;
+        const transform = getComputedStyle(node).transform === 'none' ? '' : getComputedStyle(node).transform;
+        return {
+            duration,
+            delay,
+            easing,
+            css: t => {
+                return `
+                    opacity: ${t * o};
+                    backdrop-filter: blur(${50*t});
+                    transform: ${transform} translate(${(1 - t) * x}px, ${(1 - t) * y}px);
+
+                `
+            }
+        }
+    }
 </script>
 
 {#if visible}
-<main id="container" in:fly="{{y:-200,duration:500}}" out:fly="{{y:200,duration:500}}">
-    <span id="item-4"><i>{data.name}</i><br><span id="artist">by "{data.artist}"</span></span>
-    <img id="item-1" src="{data.image}" alt="{data.artist}" on:keydown={() => {console.log("what?")}} on:click={() => {visible = false}}>
-    <a href="{data.bandcamp}" target="_blank" rel="noopener noreferrer" id="item-3">Bandcamp</a>
-    <button id="item-2" on:click={() => {visible = false}}>X</button>
-    <p id="item-0">{data.description}</p>
+<main id="container" in:blurFade="{{duration:500}}" out:blurFade="{{duration:500}}">
+
+<!-- <main id="container" in:fly="{{y:-200,duration:500}}" out:fly="{{y:200,duration:500}}"> -->
+    <span id="item-4" class="item"><i>{data.name}</i><br><span id="artist">by "{data.artist}"</span></span>
+    <img id="item-1" class="item" src="{data.image}" alt="{data.artist}" on:keydown={() => {console.log("what?")}} on:click={() => {visible = false}}>
+    <a href="{data.bandcamp}" class="item" target="_blank" rel="noopener noreferrer" id="item-3">Bandcamp</a>
+    <button id="item-2" class="item" on:click={() => {visible = false}}>X</button>
+    <p id="item-0" class="item">{data.description}</p>
 </main>
 {/if}
 
@@ -23,9 +50,9 @@
         display: grid;
         grid-template-rows: 10vmin 55vmin 15vmin;
         grid-template-columns: 90vmin 35vmin;
-        background-color: #292929;
         padding: 10vmin;
         height: 70vmin;
+        backdrop-filter: blur(25px);
     }
     #item-0 {
         grid-row: 3 / 4;
