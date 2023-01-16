@@ -15,6 +15,13 @@
             "bandcamp":"https://nmesh.bandcamp.com/album/--2"
         },
         {
+            "name": "I'll Try Living Like This",
+            "artist":"death's dynamic shroud.wmv",
+            "image":"https://f4.bcbits.com/img/a0102733853_10.jpg",
+            "description": "Haunting, soothing, terrifying and sad at the same time. Nothing will ever be similar to this masterpiece.",
+            "bandcamp": "https://deathsdynamicshroud.bandcamp.com/album/ill-try-living-like-this"
+        },
+        {
             "name":"大​理​石​の​フ​ァ​ン​タ​ジ​ー (Marble Fantasy)",
             "artist":"Haircuts for Men",
             "image":"https://f4.bcbits.com/img/a2921127091_10.jpg",
@@ -27,13 +34,6 @@
             "image":"https://f4.bcbits.com/img/a0901283591_10.jpg",
             "description":"This is just amazing. No further comment nessecary.",
             "bandcamp":"https://dreamcatalogue.bandcamp.com/album/rain-temple"
-        },
-        {
-            "name": "I'll Try Living Like This",
-            "artist":"death's dynamic shroud",
-            "image":"https://f4.bcbits.com/img/a0102733853_10.jpg",
-            "description": "Haunting, soothing, terrifying and sad at the same time. Nothing will ever be similar to this masterpiece.",
-            "bandcamp": "https://deathsdynamicshroud.bandcamp.com/album/ill-try-living-like-this"
         },
         {
             "name":"The city is my friend",
