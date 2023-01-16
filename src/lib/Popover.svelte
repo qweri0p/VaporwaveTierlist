@@ -1,6 +1,5 @@
 <script lang="ts">
     import { cubicOut } from 'svelte/easing'
-    import { fly } from 'svelte/transition';
     export let data;
     export let visible = false;
 
