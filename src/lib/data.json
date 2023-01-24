@@ -187,7 +187,14 @@
             "bandcamp":"https://georgeclanton.bandcamp.com/album/slide"
         }
     ],
-    "c": [        
+    "c": [
+        {
+            "name": "Seasoning The Jazz V.1",
+            "artist": "Mabisyo",
+            "image": "https://f4.bcbits.com/img/a1846653042_10.jpg",
+            "description": "Just nice. Nothing more to say about it.",
+            "bandcamp":"https://mabisyo.bandcamp.com/album/seasoning-the-jazz-v-1"
+        },    
         {
             "name":"VHS LOUNGE",
             "artist":"vcr-classique",
