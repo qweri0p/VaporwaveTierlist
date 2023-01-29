@@ -2,7 +2,14 @@
     import Album from "./Album.svelte";
     export let tier:string;
     import rawdata from "./data.json"
-    const list = rawdata[tier]
+    interface album{
+        name:string;
+        artist:string;
+        image:string;
+        bandcamp:string;
+        description:string;
+    }
+    const list:album[] = rawdata[tier]
 </script>
 
 <div>

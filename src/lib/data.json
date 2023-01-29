@@ -8,6 +8,13 @@
             "bandcamp": "https://nmesh.bandcamp.com/album/dream-sequins"
         },
         {
+            "name": "Heavy Black Heart",
+            "artist": "death's dynamic shroud",
+            "image": "https://f4.bcbits.com/img/a2631671759_10.jpg",
+            "description": "Every track could have been a single. They're all fantastic.",
+            "bandcamp": "https://deathsdynamicshroud.bandcamp.com/album/heavy-black-heart-3"
+        },
+        {
             "name":"ロ​ス​ト​エ​デ​ン​へ​の​パ​ス (The path to lost eden)",
             "artist":"Nmesh and t e l e p a t h テレパシー能力者",
             "image":"https://f4.bcbits.com/img/a2129077846_10.jpg",
@@ -55,9 +62,23 @@
             "image":"https://f4.bcbits.com/img/a3144491188_10.jpg",
             "description":"My god this record is nice. Bimodal is my favorite Oblique Occasions track.",
             "bandcamp":"https://obliqueoccasions.bandcamp.com/album/remnants"
+        },
+        {
+            "name":"Pharma",
+            "artist":"Nmesh",
+            "image":"https://f4.bcbits.com/img/a3973099227_10.jpg",
+            "description":"Words cannot describe what this record is. Just know it's good.",
+            "bandcamp":"https://orangemilkrecords.bandcamp.com/album/pharma"
         }
     ],
     "a": [
+        {
+            "name": "新​し​い​日​の​誕​生 (Birth of a new Day)",
+            "artist":"2814",
+            "image":"https://f4.bcbits.com/img/a4099353330_10.jpg",
+            "description":"Slightly overrated, still amazing. So happy to own on vinyl!",
+            "bandcamp": "https://dreamcatalogue.bandcamp.com/album/--18"
+        },
         {
             "name": "Nu.wav Hallucinations",
             "artist":"Nmesh",
@@ -87,11 +108,11 @@
             "bandcamp":"https://dreamcatalogue.bandcamp.com/album/--22"
         },
         {
-            "name": "新​し​い​日​の​誕​生 (Birth of a new Day)",
-            "artist":"2814",
-            "image":"https://f4.bcbits.com/img/a4099353330_10.jpg",
-            "description":"Slightly overrated, still amazing. So happy to own on vinyl!",
-            "bandcamp": "https://dreamcatalogue.bandcamp.com/album/--18"
+            "name": "Faith in Persona",
+            "artist": "death's dynamic shroud.wmv",
+            "image": "https://f4.bcbits.com/img/a3041794312_10.jpg",
+            "description": "Very good. The middle is a slight dip in quality though.",
+            "bandcamp": "https://deathsdynamicshroud.bandcamp.com/album/faith-in-persona"
         },
         {
             "name":"Ibis valley",
@@ -101,18 +122,18 @@
             "bandcamp":"https://macroblank.bandcamp.com/album/ibis-valley"
         },
         {
-            "name":"Pharma",
-            "artist":"Nmesh",
-            "image":"https://f4.bcbits.com/img/a3973099227_10.jpg",
-            "description":"Words cannot describe what this record is. Just know it's good.",
-            "bandcamp":"https://orangemilkrecords.bandcamp.com/album/pharma"
-        },
-        {
             "name":"Sable Covenant",
             "artist":"Oblique Occasions",
             "image":"https://f4.bcbits.com/img/a0409101075_10.jpg",
             "description":"Just some very nice and chill barber beats. Nothing new is best track.",
             "bandcamp":"https://obliqueoccasions.bandcamp.com/album/sable-covenant"
+        },
+        {
+            "name": "better than me",
+            "artist": "Oblique Occasions",
+            "image": "https://f4.bcbits.com/img/a0411778912_10.jpg",
+            "description": "Everything on this record is amazing. Except the last few tracks, they kinda stink.",
+            "bandcamp": "https://obliqueoccasions.bandcamp.com/album/better-than-me"
         },
         {
             "name":"孤​独​な​人​々​の​た​め​の​内​省​的​な​音​楽",
@@ -136,6 +157,13 @@
             "image":"https://f4.bcbits.com/img/a2954521948_10.jpg",
             "description":"So experimental it's impossible to tell what it is. Still not the best dds record though.",
             "bandcamp":"https://deathsdynamicshroud.bandcamp.com/album/darklife-2"
+        },
+        {
+            "name": "絶​望​に​負​け​た (Lost in despair)",
+            "artist": "Macroblank",
+            "image": "https://f4.bcbits.com/img/a2195809660_10.jpg",
+            "description": "This mood is so amazing. None of the tracks slap but are still hits.",
+            "bandcamp": "https://macroblank.bandcamp.com/album/-"
         },
         {
             "name":"200% Electronica",
@@ -166,13 +194,6 @@
             "bandcamp":"https://remember48.bandcamp.com/album/a-deep-dive-into-the-conflicted-and-scared-psyche"
         },
         {
-            "name":"Mana Pool",
-            "artist":"VAPERROR",
-            "image":"https://f4.bcbits.com/img/a3248760326_10.jpg",
-            "description":"Classic vaportrap record. I like this more than Blank Banshee 0/1.",
-            "bandcamp":"https://vaperror.bandcamp.com/album/mana-pool-2"
-        },
-        {
             "name":"Perfect world",
             "artist":"Blackbird",
             "image":"https://f4.bcbits.com/img/a2901810953_10.jpg",
@@ -189,12 +210,26 @@
     ],
     "c": [
         {
+            "name":"超​越​愛 (beyond love)",
+            "artist":"テレヴァペ",
+            "image":"https://f4.bcbits.com/img/a1675322589_10.jpg",
+            "description":"I dig it. It's a little samy, but still good.",
+            "bandcamp":"https://plus100.bandcamp.com/album/-"
+        },
+        {
             "name": "Seasoning The Jazz V.1",
             "artist": "Mabisyo",
             "image": "https://f4.bcbits.com/img/a1846653042_10.jpg",
             "description": "Just nice. Nothing more to say about it.",
             "bandcamp":"https://mabisyo.bandcamp.com/album/seasoning-the-jazz-v-1"
-        },    
+        },
+        {
+            "name": "ご​め​ん​と​言​っ​て (Say Sorry)",
+            "artist": "Macroblank",
+            "image": "https://f4.bcbits.com/img/a0578242852_10.jpg",
+            "description": "All of these cuts slap, just not as hard as other Macroblank records.",
+            "bandcamp": "https://macroblank.bandcamp.com/album/lp-3"
+        },
         {
             "name":"VHS LOUNGE",
             "artist":"vcr-classique",
@@ -217,18 +252,18 @@
             "bandcamp":"https://georgeclanton.bandcamp.com/album/100-electronica"
         },
         {
+            "name":"Mana Pool",
+            "artist":"VAPERROR",
+            "image":"https://f4.bcbits.com/img/a3248760326_10.jpg",
+            "description":"Classic vaportrap record. I like this more than Blank Banshee 0/1.",
+            "bandcamp":"https://vaperror.bandcamp.com/album/mana-pool-2"
+        },
+        {
             "name":"terminally online",
             "artist":"Oblique Occasions",
             "image":"https://f4.bcbits.com/img/a0820125049_10.jpg",
             "description":"Some heavy bangers on side A, some misses on side B.",
             "bandcamp":"https://obliqueoccasions.bandcamp.com/album/terminally-online"
-        },
-        {
-            "name":"超​越​愛 (beyond love)",
-            "artist":"テレヴァペ",
-            "image":"https://f4.bcbits.com/img/a1675322589_10.jpg",
-            "description":"I dig it. It's a little samy, but still good.",
-            "bandcamp":"https://plus100.bandcamp.com/album/-"
         },
         {
             "name":"Time Moved Like It Used To",

@@ -31,7 +31,7 @@
 {#if visible}
 <main id="container" in:blurFade="{{duration:500}}" out:blurFade="{{duration:500}}">
     <span id="item-4"><i>{data.name}</i><br><span id="artist">by "{data.artist}"</span></span>
-    <img id="item-1" src="{data.image}" alt="{data.artist}" on:keydown={() => {console.log("what?")}} on:click={() => {visible = false}}>
+    <img id="item-1" src="{data.image}" alt="{data.name} cover" on:keydown={() => {console.log("what?")}} on:click={() => {visible = false}}>
     <a href="{data.bandcamp}" target="_blank" rel="noopener noreferrer" id="item-3">Bandcamp</a>
     <button id="item-2" on:click={() => {visible = false}}>X</button>
     <p id="item-0">{data.description}</p>
@@ -48,7 +48,8 @@
         grid-template-rows: 10vmin 55vmin 15vmin;
         grid-template-columns: 90vmin 35vmin;
         padding: 10vmin;
-        height: 70vmin;
+        height: 100vmin;
+        width: 1000vmin;
         backdrop-filter: blur(25px);
     }
     #item-0 {
@@ -60,7 +61,7 @@
     #item-1 {
         grid-row: 2 / 3;
         grid-column: 1 / 2;
-        height: 55vh;
+        height: 55vmin;
     }
     #item-2 {
         background-color: #ff4343; 
