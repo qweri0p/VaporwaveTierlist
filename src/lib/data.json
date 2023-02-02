@@ -1,4 +1,6 @@
 {
+    "unused": [
+    ],
     "s":[
         {    
             "name": "Dream Sequins®",
@@ -29,11 +31,11 @@
             "bandcamp": "https://deathsdynamicshroud.bandcamp.com/album/ill-try-living-like-this"
         },
         {
-            "name":"大​理​石​の​フ​ァ​ン​タ​ジ​ー (Marble Fantasy)",
-            "artist":"Haircuts for Men",
-            "image":"https://f4.bcbits.com/img/a2921127091_10.jpg",
-            "description":"Idk man this record slaps so fucking hard.",
-            "bandcamp":"https://haircutsformen.bandcamp.com/album/--3"
+            "name": "失​わ​れ​た​時​REGRET (REGRET WHEN IT WAS LOST)",
+            "artist": "death's dynamic shroud.wmv",
+            "image": "https://f4.bcbits.com/img/a1431540382_10.jpg",
+            "description": "Absolutely gorgeous, and incredibly sad :(",
+            "bandcamp": "https://deathsdynamicshroud.bandcamp.com/album/regret"
         },
         {
             "name":"Rain Temple",
@@ -50,18 +52,18 @@
             "bandcamp":"https://dreamcatalogue.bandcamp.com/album/the-city-is-my-friend"
         },
         {
+            "name": "Nu.wav Hallucinations",
+            "artist":"Nmesh",
+            "image": "https://f4.bcbits.com/img/a2049145046_10.jpg",
+            "description": "Great, but Dream Sequins® is better. I own this on vinyl.",
+            "bandcamp": "https://nmesh.bandcamp.com/album/nu-wav-hallucinations"
+        },
+        {
             "name":"L.Y.F",
             "artist":"Hong Kong Express",
             "image":"https://f4.bcbits.com/img/a3072806146_10.jpg",
             "description":"Super nice. Some tracks are just fantastic. Personal favorite is 'Changing Trains'.",
             "bandcamp":"https://dreamcatalogue.bandcamp.com/album/l-y-f"
-        },
-        {
-            "name":"REMNANTS",
-            "artist":"Oblique Occasions",
-            "image":"https://f4.bcbits.com/img/a3144491188_10.jpg",
-            "description":"My god this record is nice. Bimodal is my favorite Oblique Occasions track.",
-            "bandcamp":"https://obliqueoccasions.bandcamp.com/album/remnants"
         },
         {
             "name":"Pharma",
@@ -80,11 +82,11 @@
             "bandcamp": "https://dreamcatalogue.bandcamp.com/album/--18"
         },
         {
-            "name": "Nu.wav Hallucinations",
-            "artist":"Nmesh",
-            "image": "https://f4.bcbits.com/img/a2049145046_10.jpg",
-            "description": "Great, but Dream Sequins® is better. I own this on vinyl.",
-            "bandcamp": "https://nmesh.bandcamp.com/album/nu-wav-hallucinations"
+            "name":"REMNANTS",
+            "artist":"Oblique Occasions",
+            "image":"https://f4.bcbits.com/img/a3144491188_10.jpg",
+            "description":"My god this record is nice. Bimodal is my favorite Oblique Occasions track.",
+            "bandcamp":"https://obliqueoccasions.bandcamp.com/album/remnants"
         },
         {
             "name": "NEWS AT 11",
@@ -92,6 +94,13 @@
             "image": "https://f4.bcbits.com/img/a1964377693_10.jpg",
             "description":"The best from catsystemcorp. This is a very special concept album.",
             "bandcamp":"https://catsystemcorp.bandcamp.com/album/news-at-11-remastered"
+        },
+        {
+            "name":"大​理​石​の​フ​ァ​ン​タ​ジ​ー (Marble Fantasy)",
+            "artist":"Haircuts for Men",
+            "image":"https://f4.bcbits.com/img/a2921127091_10.jpg",
+            "description":"Idk man this record slaps so fucking hard.",
+            "bandcamp":"https://haircutsformen.bandcamp.com/album/--3"
         },
         {
             "name":"痛​み​の​永​遠 (Eternity of Pain)",
@@ -127,13 +136,6 @@
             "image":"https://f4.bcbits.com/img/a0409101075_10.jpg",
             "description":"Just some very nice and chill barber beats. Nothing new is best track.",
             "bandcamp":"https://obliqueoccasions.bandcamp.com/album/sable-covenant"
-        },
-        {
-            "name": "better than me",
-            "artist": "Oblique Occasions",
-            "image": "https://f4.bcbits.com/img/a0411778912_10.jpg",
-            "description": "Everything on this record is amazing. Except the last few tracks, they kinda stink.",
-            "bandcamp": "https://obliqueoccasions.bandcamp.com/album/better-than-me"
         },
         {
             "name":"孤​独​な​人​々​の​た​め​の​内​省​的​な​音​楽",
@@ -201,18 +203,18 @@
             "bandcamp":"https://remember48.bandcamp.com/album/a-deep-dive-into-the-conflicted-and-scared-psyche"
         },
         {
+            "name": "better than me",
+            "artist": "Oblique Occasions",
+            "image": "https://f4.bcbits.com/img/a0411778912_10.jpg",
+            "description": "Everything on this record is amazing. Except the last few tracks, they kinda stink.",
+            "bandcamp": "https://obliqueoccasions.bandcamp.com/album/better-than-me"
+        },
+        {
             "name":"Perfect World",
             "artist":"Blackbird",
             "image":"https://f4.bcbits.com/img/a2901810953_10.jpg",
             "description":"Pretty good. It isn't as immersive as other dreampunk records, but still, good. I also own the tape.",
             "bandcamp":"https://f0x3r-fennec.bandcamp.com/album/perfect-world"
-        },
-        {
-            "name":"Slide",
-            "artist":"George Clanton",
-            "image":"https://f4.bcbits.com/img/a3009101780_10.jpg",
-            "description":"Better than 100% Electronica. Not really that much to say beyond that.",
-            "bandcamp":"https://georgeclanton.bandcamp.com/album/slide"
         }
     ],
     "c": [
@@ -243,6 +245,13 @@
             "image":"https://f4.bcbits.com/img/a0849784418_10.jpg",
             "description":"The perfect late night lofi record for a night walk, I am sure of it.",
             "bandcamp":"https://vcr-classique.bandcamp.com/album/vhs-lounge"
+        },
+        {
+            "name":"Slide",
+            "artist":"George Clanton",
+            "image":"https://f4.bcbits.com/img/a3009101780_10.jpg",
+            "description":"Better than 100% Electronica. Not really that much to say beyond that.",
+            "bandcamp":"https://georgeclanton.bandcamp.com/album/slide"
         },
         {
             "name":"Anathema",
