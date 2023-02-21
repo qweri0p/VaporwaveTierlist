@@ -27,7 +27,7 @@
             "name":"Rain Temple",
             "artist":"2814",
             "image":"https://f4.bcbits.com/img/a0901283591_10.jpg",
-            "description":"Oh my goodness, this is fucking amazing. Eyes of the Temple is the peak of vaporwave.",
+            "description":"Oh my goodness, this is fucking amazing. Eyes of the Temple is the peak of vaporwave/dreampunk.",
             "bandcamp":"https://dreamcatalogue.bandcamp.com/album/rain-temple"
         },
         {
@@ -62,7 +62,7 @@
             "name":"L.Y.F",
             "artist":"Hong Kong Express",
             "image":"https://f4.bcbits.com/img/a3072806146_10.jpg",
-            "description":"Super nice. Some tracks are just fantastic. Personal favorite is 'Changing Trains'.",
+            "description":"I fucking love this one. The music is so beautiful it's insane. The vinyl is also extremely good.",
             "bandcamp":"https://dreamcatalogue.bandcamp.com/album/l-y-f"
         },
         {
@@ -75,10 +75,17 @@
     ],
     "a": [
         {
+            "name": "Faith in Persona",
+            "artist": "death's dynamic shroud.wmv",
+            "image": "https://f4.bcbits.com/img/a3041794312_10.jpg",
+            "description": "Fucking awesome. The worst track on here is still great.",
+            "bandcamp": "https://deathsdynamicshroud.bandcamp.com/album/faith-in-persona"
+        },
+        {
             "name": "新​し​い​日​の​誕​生 (Birth Of A New Day)",
             "artist":"2814",
             "image":"https://f4.bcbits.com/img/a4099353330_10.jpg",
-            "description":"Slightly overrated, still amazing. So happy to own on vinyl!",
+            "description":"Slightly overrated, still gorgeous. So happy to own on vinyl!",
             "bandcamp": "https://dreamcatalogue.bandcamp.com/album/--18"
         },
         {
@@ -115,13 +122,6 @@
             "image":"https://f4.bcbits.com/img/a3675313495_10.jpg",
             "description":"Just great. I love how it slowly builds up the music throughout the entire record.",
             "bandcamp":"https://dreamcatalogue.bandcamp.com/album/--22"
-        },
-        {
-            "name": "Faith in Persona",
-            "artist": "death's dynamic shroud.wmv",
-            "image": "https://f4.bcbits.com/img/a3041794312_10.jpg",
-            "description": "Very good. The middle is a slight dip in quality though.",
-            "bandcamp": "https://deathsdynamicshroud.bandcamp.com/album/faith-in-persona"
         },
         {
             "name":"ibis valley",
@@ -202,12 +202,12 @@
             "description":"Idk, this record isn't that good, but I keep coming back to it. It is definitely very special.",
             "bandcamp":"https://remember48.bandcamp.com/album/a-deep-dive-into-the-conflicted-and-scared-psyche"
         },
-        {
-            "name": "better than me",
-            "artist": "Oblique Occasions",
-            "image": "https://f4.bcbits.com/img/a0411778912_10.jpg",
-            "description": "Everything on this record is amazing. Except the last few tracks, they kinda stink.",
-            "bandcamp": "https://obliqueoccasions.bandcamp.com/album/better-than-me"
+         {
+            "name":"terminally online",
+            "artist":"Oblique Occasions",
+            "image":"https://f4.bcbits.com/img/a0820125049_10.jpg",
+            "description":"Some heavy bangers on side A, some slight misses on side B.",
+            "bandcamp":"https://obliqueoccasions.bandcamp.com/album/terminally-online"
         },
         {
             "name":"Perfect World",
@@ -275,11 +275,11 @@
             "bandcamp":"https://vaperror.bandcamp.com/album/mana-pool-2"
         },
         {
-            "name":"terminally online",
-            "artist":"Oblique Occasions",
-            "image":"https://f4.bcbits.com/img/a0820125049_10.jpg",
-            "description":"Some heavy bangers on side A, some misses on side B.",
-            "bandcamp":"https://obliqueoccasions.bandcamp.com/album/terminally-online"
+            "name": "better than me",
+            "artist": "Oblique Occasions",
+            "image": "https://f4.bcbits.com/img/a0411778912_10.jpg",
+            "description": "Everything on this record is amazing. Except the last few tracks, they kinda stink.",
+            "bandcamp": "https://obliqueoccasions.bandcamp.com/album/better-than-me"
         },
         {
             "name":"Time Moved Like It Used To",
